@@ -3,7 +3,7 @@
 import { useState } from "react"
 import axios from "axios"
 
-const apiUrl = "https://195.35.45.56:2585/api/issues"
+const apiUrl = "https://mozbackend.bellaryinfotech.com/api/issues"
 
 const NewEntryIssue = ({ onShowToast }) => {
   const [showModal, setShowModal] = useState(false)
