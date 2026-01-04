@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="page about-page">
       <div className="page-hero">
-        <h1>About Moz Mobile Garage</h1>
+        <h1>About MAZ Mobile Garage</h1>
         <p>Dedicated to providing the best mobile repair experience</p>
       </div>
 
@@ -16,7 +16,7 @@ const About = () => {
           <div className="about-text">
             <h2>Who We Are</h2>
             <p>
-              Moz Mobile Garage is a leading mobile repair service provider with over 10 years of experience in the
+              MAZ Mobile Garage is a leading mobile repair service provider with over 10 years of experience in the
               industry. We pride ourselves on delivering exceptional customer service and high-quality repairs.
             </p>
             <p>

@@ -20,7 +20,7 @@ const Support = () => {
           <div className="support-card">
             <div className="support-icon">📧</div>
             <h3>Email Us</h3>
-            <p className="support-detail">info@mozmobilegarage.com</p>
+            <p className="support-detail">info@MAZmobilegarage.com</p>
             <p className="support-time">Response within 2 hours</p>
           </div>
 

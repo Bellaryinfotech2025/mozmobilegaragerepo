@@ -62,7 +62,7 @@ const Home = ({ onShowToast }) => {
               color: "#f8fafc",
             }}
           >
-            Moz <span className="orchid-hero-highlight">Mobile Garage</span>
+            MAZ <span className="orchid-hero-highlight">Mobile Garage</span>
           </h1>
 
           <p
@@ -115,7 +115,7 @@ const Home = ({ onShowToast }) => {
       fontWeight: "800",
     }}
   >
-    Why Choose <span style={{ color: "#660033" }}>Moz</span>?
+    Why Choose <span style={{ color: "#660033" }}>MAZ</span>?
   </h2>
 
   <div

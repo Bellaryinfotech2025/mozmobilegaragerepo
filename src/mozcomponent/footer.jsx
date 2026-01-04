@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-section footer-about">
-          <h3 className="footer-title">Moz Mobile Garage</h3>
+          <h3 className="footer-title">MAZ Mobile Garage</h3>
           <p className="footer-description">Fast, reliable mobile repair service at your doorstep</p>
           <div className="social-icons">
             <a href="#" aria-label="Facebook" className="social-icon">
@@ -82,13 +82,13 @@ const Footer = () => {
         <div className="footer-section">
           <h4>Contact</h4>
           <p className="footer-contact-info">📞 8688349726</p>
-          <p className="footer-contact-info">📧 info@mozmobilegarage.com</p>
+          <p className="footer-contact-info">📧 info@MAZmobilegarage.com</p>
           <p className="footer-contact-info">Bellary Karnataka</p>
         </div>
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; 2025 Moz Mobile Garage. All rights reserved.</p>
+        <p>&copy; 2025 MAZ Mobile Garage. All rights reserved.</p>
       </div>
     </footer>
   )
